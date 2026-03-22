@@ -21,7 +21,7 @@ This repository contains implementations of **classical cryptographic algorithms
 ## 💻 Technologies
 
 - Language: C++
-- Standard: (you can specify like C++17 if you want)
+- Standard: C++17 or higher
 
 ## ⚠️ Disclaimer
 
